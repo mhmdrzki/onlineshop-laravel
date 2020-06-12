@@ -6,13 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## Cara Install Project DENGAN github desktop
-Untuk menginstal project ini anda harus memiliki Composer
-bagi yang belum install composer silahkan download [Klik di sini](https://getcomposer.org/download/1.9.0/composer.phar) tutorial cara instal composer [klik di sini](https://www.malasngoding.com/cara-install-composer/)
+## Cara Install Project
 
 Bagi yang sudah memiliki composer silahkan ikuti tutor dibawah ini
 - Jalankan Composer Install atau composer Update
-- Copy .env.example lalu setting sesuai database
+- Ubah nama '.env.example' menjadi '.env' lalu setting sesuai database
 - jalankan php artisan migrate atau import data base via phpmyadmin ( file sql ada di projek ) 
 - Lakukan generate key ketik 
 ```terminal
