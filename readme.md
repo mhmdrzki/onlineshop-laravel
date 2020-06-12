@@ -16,7 +16,7 @@ Bagi yang sudah memiliki composer silahkan ikuti tutor dibawah ini
 ```terminal
 php artisan key:generate
 ```
-- Finish
+- Finish, Project dapat dijalankan.
 
 - URL Admin : '/admin-login'
 ```terminal
